@@ -1,1 +1,1 @@
-# https://jleonardo13.github.io/OTRO/SO/html/prototipo.html
+https://jleonardo13.github.io/PAGINA/SO/html/prototipo.html
